@@ -1,4 +1,4 @@
-### MIT CLOUD & DevOps
+### MIT Cloud & DevOps
 Notes from the online course
 
 - [Module 1](https://github.com/simoneghezzi/mit_cloud_devops/wiki/Module-1-%E2%80%90-Cloud) - Cloud
